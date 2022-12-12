@@ -1,4 +1,4 @@
-name: Flutter Package Workflow
+name: Flutter Application Workflow
 
 on:
   push:
